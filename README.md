@@ -10,4 +10,7 @@ fish-weight-prediction/
 │ ├── index.html
 │ └── prediction.html
 ├── fish_weight_regression_model.pkl
-└── scaler.pkl
+├── scaler.pkl
+├── requirements.txt
+├── Procfile
+└── README.md
